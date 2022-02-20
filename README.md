@@ -106,6 +106,8 @@ urlpatterns = [
 ```
 ## OUTPUT:
 ### Before Calculations:
-
+![](./out1.PNG)
+### After Calculations:
+![](./out2.PNG)
 ## Result:
 Thus a website is designed to perform mathematical calculations in server side and is hosted at http://nithishkumar.student.saveetha.in/
